@@ -11,6 +11,7 @@
   "dependencies": {
     "@astrojs/preact": "^4.0.3",
     "astro": "^5.1.7",
+    "lightgallery": "^2.8.2",
     "preact": "^10.25.4"
   }
 }

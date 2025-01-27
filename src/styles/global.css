@@ -42,6 +42,7 @@ h1 {
     float: right;
   }
   
+
   .nav-links a {
     display: block;
     text-align: center;
@@ -50,11 +51,13 @@ h1 {
     font-size: 1.2rem;
     font-weight: bold;
     text-transform: uppercase;
+    color: black;
   }
-  
+
   .nav-links a:hover,
-  .nav-links a:focus {
-    color: #ff9776;
+  .nav-links a:focus
+   {
+    color: beige;
   }
   
   .expanded {
